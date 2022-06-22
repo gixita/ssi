@@ -1,7 +1,7 @@
 Dockerfile
 docker-compose.yml
 .dockerignore
-node_modules
+**/node_modules
 npm-debug.log
 .vscode
 .next
